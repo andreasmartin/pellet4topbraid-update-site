@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/pellet4topbraid_plug_in_1.0.0.201404271244.jar" id="pellet4topbraid_plug_in" version="1.0.0.201404271244"/>
+   <feature url="features/pellet4topbraid_feature_2.0.0.201410051244.jar" id="pellet4topbraid_feature" version="2.0.0.201410051244"/>
 </site>

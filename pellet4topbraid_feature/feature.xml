@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
-      id="pellet4topbraid_plug_in"
-      label="Pellet4topbraid"
-      version="1.0.0.qualifier"
+      id="pellet4topbraid_feature"
+      label="pellet4topbraid plug-in"
+      version="2.0.0.qualifier"
       provider-name="andreasmartin.ch">
 
    <description url="http://www.example.com/description">
